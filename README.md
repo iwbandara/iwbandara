@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Indika W Bandara
-### 🌱 I’m currently learning Network Automation using Ansible
+### 🌱 I’m currently learning Network Automation using Ansible :+1:
 ### 👯 I’m looking to collaborate on Network Automation & Linux System Administration
 ### 📫 How to reach me: iwbandara@gmail.com
 
